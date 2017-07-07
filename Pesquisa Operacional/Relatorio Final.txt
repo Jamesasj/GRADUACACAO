@@ -1,0 +1,168 @@
+1� execuaoo do programa: 
+
+ShellSort/ pessoa500alea.txt
+Tempo de leitura: ( Em milisegundos: 1261 ) ( Em nanosegundos: 1261628447 )
+Tempo de ordenaaoo: ( Em milisegundos: 897 ) ( Em nanosegundos: 897258858 )
+
+ShellSort/ pessoa500inv.txt
+Tempo de leitura: ( Em milisegundos: 11 ) ( Em nanosegundos: 11728887 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 27530 )
+
+ShellSort/ pessoa500ord.txt
+Tempo de leitura: ( Em milisegundos: 6 ) ( Em nanosegundos: 6157478 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 27063 )
+
+QuickSort/ pessoa500alea.txt
+Tempo de leitura: ( Em milisegundos: 3 ) ( Em nanosegundos: 3270985 )
+Tempo de ordenaaoo: ( Em milisegundos: 1070 ) ( Em nanosegundos: 1070394314 )
+
+QuickSort/ pessoa500inv.txt
+Tempo de leitura: ( Em milisegundos: 0 ) ( Em nanosegundos: 881907 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 27997 )
+
+QuickSort/ pessoa500ord.txt
+Tempo de leitura: ( Em milisegundos: 0 ) ( Em nanosegundos: 708324 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 27064 )
+
+HeapSort/ pessoa500alea.txt
+Tempo de leitura: ( Em milisegundos: 3 ) ( Em nanosegundos: 3075940 )
+Tempo de ordenaaoo: ( Em milisegundos: 1332 ) ( Em nanosegundos: 1332322330 )
+
+HeapSort/ pessoa500inv.txt
+Tempo de leitura: ( Em milisegundos: 2 ) ( Em nanosegundos: 2181435 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 28464 )
+
+HeapSort/ pessoa500ord.txt
+Tempo de leitura: ( Em milisegundos: 0 ) ( Em nanosegundos: 944900 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 28930 )
+
+
+
+=============================================================================
+
+2� execuaoo do programa: 
+
+ShellSort/ pessoa500alea.txt
+Tempo de leitura: ( Em milisegundos: 1094 ) ( Em nanosegundos: 1094192251 )
+Tempo de ordenaaoo: ( Em milisegundos: 924 ) ( Em nanosegundos: 924956779 )
+
+ShellSort/ pessoa500inv.txt
+Tempo de leitura: ( Em milisegundos: 0 ) ( Em nanosegundos: 857175 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 26130 )
+
+ShellSort/ pessoa500ord.txt
+Tempo de leitura: ( Em milisegundos: 0 ) ( Em nanosegundos: 887039 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 26130 )
+
+QuickSort/ pessoa500alea.txt
+Tempo de leitura: ( Em milisegundos: 1 ) ( Em nanosegundos: 1399385 )
+Tempo de ordenaaoo: ( Em milisegundos: 877 ) ( Em nanosegundos: 877846189 )
+
+QuickSort/ pessoa500inv.txt
+Tempo de leitura: ( Em milisegundos: 0 ) ( Em nanosegundos: 856242 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 27064 )
+
+QuickSort/ pessoa500ord.txt
+Tempo de leitura: ( Em milisegundos: 0 ) ( Em nanosegundos: 786716 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 28930 )
+
+HeapSort/ pessoa500alea.txt
+Tempo de leitura: ( Em milisegundos: 1 ) ( Em nanosegundos: 1608429 )
+Tempo de ordenaaoo: ( Em milisegundos: 955 ) ( Em nanosegundos: 955945285 )
+
+HeapSort/ pessoa500inv.txt
+Tempo de leitura: ( Em milisegundos: 0 ) ( Em nanosegundos: 846910 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 27064 )
+
+HeapSort/ pessoa500ord.txt
+Tempo de leitura: ( Em milisegundos: 0 ) ( Em nanosegundos: 893572 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 27997 )
+
+
+
+=============================================================================
+
+3� execuaoo do programa: 
+
+ShellSort/ pessoa500alea.txt
+Tempo de leitura: ( Em milisegundos: 910 ) ( Em nanosegundos: 910361465 )
+Tempo de ordenaaoo: ( Em milisegundos: 867 ) ( Em nanosegundos: 867593213 )
+
+ShellSort/ pessoa500inv.txt
+Tempo de leitura: ( Em milisegundos: 0 ) ( Em nanosegundos: 820313 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 24264 )
+
+ShellSort/ pessoa500ord.txt
+Tempo de leitura: ( Em milisegundos: 0 ) ( Em nanosegundos: 942100 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 24264 )
+
+QuickSort/ pessoa500alea.txt
+Tempo de leitura: ( Em milisegundos: 1 ) ( Em nanosegundos: 1404517 )
+Tempo de ordenaaoo: ( Em milisegundos: 839 ) ( Em nanosegundos: 839412342 )
+
+QuickSort/ pessoa500inv.txt
+Tempo de leitura: ( Em milisegundos: 0 ) ( Em nanosegundos: 884706 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 25664 )
+
+QuickSort/ pessoa500ord.txt
+Tempo de leitura: ( Em milisegundos: 0 ) ( Em nanosegundos: 908503 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 27997 )
+
+HeapSort/ pessoa500alea.txt
+Tempo de leitura: ( Em milisegundos: 3 ) ( Em nanosegundos: 3302249 )
+Tempo de ordenaaoo: ( Em milisegundos: 916 ) ( Em nanosegundos: 916798447 )
+
+HeapSort/ pessoa500inv.txt
+Tempo de leitura: ( Em milisegundos: 0 ) ( Em nanosegundos: 971963 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 27064 )
+
+HeapSort/ pessoa500ord.txt
+Tempo de leitura: ( Em milisegundos: 1 ) ( Em nanosegundos: 1118481 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 41995 )
+
+
+
+=============================================================================
+
+4� execuaoo do programa: 
+
+ShellSort/ pessoa500alea.txt
+Tempo de leitura: ( Em milisegundos: 887 ) ( Em nanosegundos: 887986711 )
+Tempo de ordenaaoo: ( Em milisegundos: 892 ) ( Em nanosegundos: 892186264 )
+
+ShellSort/ pessoa500inv.txt
+Tempo de leitura: ( Em milisegundos: 0 ) ( Em nanosegundos: 826846 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 24264 )
+
+ShellSort/ pessoa500ord.txt
+Tempo de leitura: ( Em milisegundos: 1 ) ( Em nanosegundos: 1121281 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 24731 )
+
+QuickSort/ pessoa500alea.txt
+Tempo de leitura: ( Em milisegundos: 2 ) ( Em nanosegundos: 2157171 )
+Tempo de ordenaaoo: ( Em milisegundos: 900 ) ( Em nanosegundos: 900154217 )
+
+QuickSort/ pessoa500inv.txt
+Tempo de leitura: ( Em milisegundos: 0 ) ( Em nanosegundos: 747987 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 26130 )
+
+QuickSort/ pessoa500ord.txt
+Tempo de leitura: ( Em milisegundos: 1 ) ( Em nanosegundos: 1200139 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 25664 )
+
+HeapSort/ pessoa500alea.txt
+Tempo de leitura: ( Em milisegundos: 1 ) ( Em nanosegundos: 1544035 )
+Tempo de ordenaaoo: ( Em milisegundos: 1005 ) ( Em nanosegundos: 1005052996 )
+
+HeapSort/ pessoa500inv.txt
+Tempo de leitura: ( Em milisegundos: 0 ) ( Em nanosegundos: 891705 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 26597 )
+
+HeapSort/ pessoa500ord.txt
+Tempo de leitura: ( Em milisegundos: 0 ) ( Em nanosegundos: 866975 )
+Tempo de ordenaaoo: ( Em milisegundos: 0 ) ( Em nanosegundos: 25664 )
+
+
+
+=============================================================================
+

@@ -1,0 +1,120 @@
+(QuickSort)pessoa500alea.txt - Tempo Médio em segundos: 0.009081160000000001 - Tempo Médio em nanosegundos: 9081160.0
+(QuickSort)pessoa500ord.txt - Tempo Médio em segundos: 0.0162309 - Tempo Médio em nanosegundos: 1.62309E7
+(QuickSort)pessoa500inv.txt - Tempo Médio em segundos: 0.0097438 - Tempo Médio em nanosegundos: 9743800.0
+(QuickSort)pessoa1000alea.txt - Tempo Médio em segundos: 0.01197374 - Tempo Médio em nanosegundos: 1.197374E7
+(QuickSort)pessoa1000ord.txt - Tempo Médio em segundos: 0.013867450000000002 - Tempo Médio em nanosegundos: 1.386745E7
+(QuickSort)pessoa1000inv.txt - Tempo Médio em segundos: 0.01251114 - Tempo Médio em nanosegundos: 1.251114E7
+(QuickSort)pessoa5000alea.txt - Tempo Médio em segundos: 0.03029296 - Tempo Médio em nanosegundos: 3.029296E7
+(QuickSort)pessoa5000ord.txt - Tempo Médio em segundos: 0.02351521 - Tempo Médio em nanosegundos: 2.351521E7
+(QuickSort)pessoa5000inv.txt - Tempo Médio em segundos: 0.021292790000000002 - Tempo Médio em nanosegundos: 2.129279E7
+(QuickSort)pessoa10000alea.txt - Tempo Médio em segundos: 0.04271649 - Tempo Médio em nanosegundos: 4.271649E7
+(QuickSort)pessoa10000ord.txt - Tempo Médio em segundos: 0.03375973 - Tempo Médio em nanosegundos: 3.375973E7
+(QuickSort)pessoa10000inv.txt - Tempo Médio em segundos: 0.038236320000000004 - Tempo Médio em nanosegundos: 3.823632E7
+(QuickSort)pessoa50000alea.txt - Tempo Médio em segundos: 0.20246162 - Tempo Médio em nanosegundos: 2.0246162E8
+(QuickSort)pessoa50000ord.txt - Tempo Médio em segundos: 0.16165115000000002 - Tempo Médio em nanosegundos: 1.6165115E8
+(QuickSort)pessoa50000inv.txt - Tempo Médio em segundos: 0.16872462000000002 - Tempo Médio em nanosegundos: 1.6872462E8
+(ShellSort)pessoa500alea.txt - Tempo Médio em segundos: 0.00816787 - Tempo Médio em nanosegundos: 8167870.0
+(ShellSort)pessoa500ord.txt - Tempo Médio em segundos: 0.01293317 - Tempo Médio em nanosegundos: 1.293317E7
+(ShellSort)pessoa500inv.txt - Tempo Médio em segundos: 0.011344090000000001 - Tempo Médio em nanosegundos: 1.134409E7
+(ShellSort)pessoa1000alea.txt - Tempo Médio em segundos: 0.013555850000000001 - Tempo Médio em nanosegundos: 1.355585E7
+(ShellSort)pessoa1000ord.txt - Tempo Médio em segundos: 0.01361084 - Tempo Médio em nanosegundos: 1.361084E7
+(ShellSort)pessoa1000inv.txt - Tempo Médio em segundos: 0.01490279 - Tempo Médio em nanosegundos: 1.490279E7
+(ShellSort)pessoa5000alea.txt - Tempo Médio em segundos: 0.0290105 - Tempo Médio em nanosegundos: 2.90105E7
+(ShellSort)pessoa5000ord.txt - Tempo Médio em segundos: 0.02694163 - Tempo Médio em nanosegundos: 2.694163E7
+(ShellSort)pessoa5000inv.txt - Tempo Médio em segundos: 0.02675761 - Tempo Médio em nanosegundos: 2.675761E7
+(ShellSort)pessoa10000alea.txt - Tempo Médio em segundos: 0.05760346 - Tempo Médio em nanosegundos: 5.760346E7
+(ShellSort)pessoa10000ord.txt - Tempo Médio em segundos: 0.045869780000000006 - Tempo Médio em nanosegundos: 4.586978E7
+(ShellSort)pessoa10000inv.txt - Tempo Médio em segundos: 0.04953442 - Tempo Médio em nanosegundos: 4.953442E7
+(ShellSort)pessoa50000alea.txt - Tempo Médio em segundos: 0.34396951000000003 - Tempo Médio em nanosegundos: 3.4396951E8
+(ShellSort)pessoa50000ord.txt - Tempo Médio em segundos: 0.20028872 - Tempo Médio em nanosegundos: 2.0028872E8
+(ShellSort)pessoa50000inv.txt - Tempo Médio em segundos: 0.23332895 - Tempo Médio em nanosegundos: 2.3332895E8
+(QuickSortComIsersão)pessoa500alea.txt - Tempo Médio em segundos: 0.00662871 - Tempo Médio em nanosegundos: 6628710.0
+(QuickSortComIsersão)pessoa500ord.txt - Tempo Médio em segundos: 0.006600730000000001 - Tempo Médio em nanosegundos: 6600730.0
+(QuickSortComIsersão)pessoa500inv.txt - Tempo Médio em segundos: 0.006572870000000001 - Tempo Médio em nanosegundos: 6572870.0
+(QuickSortComIsersão)pessoa1000alea.txt - Tempo Médio em segundos: 0.009147180000000001 - Tempo Médio em nanosegundos: 9147180.0
+(QuickSortComIsersão)pessoa1000ord.txt - Tempo Médio em segundos: 0.0108787 - Tempo Médio em nanosegundos: 1.08787E7
+(QuickSortComIsersão)pessoa1000inv.txt - Tempo Médio em segundos: 0.01337044 - Tempo Médio em nanosegundos: 1.337044E7
+(QuickSortComIsersão)pessoa5000alea.txt - Tempo Médio em segundos: 0.02171632 - Tempo Médio em nanosegundos: 2.171632E7
+(QuickSortComIsersão)pessoa5000ord.txt - Tempo Médio em segundos: 0.02661215 - Tempo Médio em nanosegundos: 2.661215E7
+(QuickSortComIsersão)pessoa5000inv.txt - Tempo Médio em segundos: 0.01987349 - Tempo Médio em nanosegundos: 1.987349E7
+(QuickSortComIsersão)pessoa10000alea.txt - Tempo Médio em segundos: 0.03923783 - Tempo Médio em nanosegundos: 3.923783E7
+(QuickSortComIsersão)pessoa10000ord.txt - Tempo Médio em segundos: 0.038442630000000005 - Tempo Médio em nanosegundos: 3.844263E7
+(QuickSortComIsersão)pessoa10000inv.txt - Tempo Médio em segundos: 0.033468250000000005 - Tempo Médio em nanosegundos: 3.346825E7
+(QuickSortComIsersão)pessoa50000alea.txt - Tempo Médio em segundos: 0.20270555 - Tempo Médio em nanosegundos: 2.0270555E8
+(QuickSortComIsersão)pessoa50000ord.txt - Tempo Médio em segundos: 0.1612925 - Tempo Médio em nanosegundos: 1.612925E8
+(QuickSortComIsersão)pessoa50000inv.txt - Tempo Médio em segundos: 0.15257261 - Tempo Médio em nanosegundos: 1.5257261E8
+(HeapSort)pessoa500alea.txt - Tempo Médio em segundos: 0.009463880000000001 - Tempo Médio em nanosegundos: 9463880.0
+(HeapSort)pessoa500ord.txt - Tempo Médio em segundos: 0.0086456 - Tempo Médio em nanosegundos: 8645600.0
+(HeapSort)pessoa500inv.txt - Tempo Médio em segundos: 0.007670410000000001 - Tempo Médio em nanosegundos: 7670410.0
+(HeapSort)pessoa1000alea.txt - Tempo Médio em segundos: 0.010104940000000001 - Tempo Médio em nanosegundos: 1.010494E7
+(HeapSort)pessoa1000ord.txt - Tempo Médio em segundos: 0.00930891 - Tempo Médio em nanosegundos: 9308910.0
+(HeapSort)pessoa1000inv.txt - Tempo Médio em segundos: 0.01335033 - Tempo Médio em nanosegundos: 1.335033E7
+(HeapSort)pessoa5000alea.txt - Tempo Médio em segundos: 0.023072330000000002 - Tempo Médio em nanosegundos: 2.307233E7
+(HeapSort)pessoa5000ord.txt - Tempo Médio em segundos: 0.025276080000000003 - Tempo Médio em nanosegundos: 2.527608E7
+(HeapSort)pessoa5000inv.txt - Tempo Médio em segundos: 0.022311590000000003 - Tempo Médio em nanosegundos: 2.231159E7
+(HeapSort)pessoa10000alea.txt - Tempo Médio em segundos: 0.04540145 - Tempo Médio em nanosegundos: 4.540145E7
+(HeapSort)pessoa10000ord.txt - Tempo Médio em segundos: 0.0413749 - Tempo Médio em nanosegundos: 4.13749E7
+(HeapSort)pessoa10000inv.txt - Tempo Médio em segundos: 0.04108068 - Tempo Médio em nanosegundos: 4.108068E7
+(HeapSort)pessoa50000alea.txt - Tempo Médio em segundos: 0.26408302 - Tempo Médio em nanosegundos: 2.6408302E8
+(HeapSort)pessoa50000ord.txt - Tempo Médio em segundos: 0.16051844 - Tempo Médio em nanosegundos: 1.6051844E8
+(HeapSort)pessoa50000inv.txt - Tempo Médio em segundos: 0.18562776 - Tempo Médio em nanosegundos: 1.8562776E8
+(ABB)pessoa500alea.txt - Tempo Médio em segundos: 0.02001823 - Tempo Médio em nanosegundos: 2.001823E7
+(ABB)pessoa500ord.txt - Tempo Médio em segundos: 0.02596644 - Tempo Médio em nanosegundos: 2.596644E7
+(ABB)pessoa500inv.txt - Tempo Médio em segundos: 0.0142492 - Tempo Médio em nanosegundos: 1.42492E7
+(ABB)pessoa1000alea.txt - Tempo Médio em segundos: 0.01634673 - Tempo Médio em nanosegundos: 1.634673E7
+(ABB)pessoa1000ord.txt - Tempo Médio em segundos: 0.03388187 - Tempo Médio em nanosegundos: 3.388187E7
+(ABB)pessoa1000inv.txt - Tempo Médio em segundos: 0.03252696 - Tempo Médio em nanosegundos: 3.252696E7
+(ABB)pessoa5000alea.txt - Tempo Médio em segundos: 0.02401967 - Tempo Médio em nanosegundos: 2.401967E7
+(ABB)pessoa5000ord.txt - Tempo Médio em segundos: 1.66585241 - Tempo Médio em nanosegundos: 1.66585241E9
+(ABB)pessoa5000inv.txt - Tempo Médio em segundos: 1.7165074800000002 - Tempo Médio em nanosegundos: 1.71650748E9
+(ABB)pessoa10000alea.txt - Tempo Médio em segundos: 0.03898857 - Tempo Médio em nanosegundos: 3.898857E7
+(ABB)pessoa10000ord.txt - Tempo Médio em segundos: 7.07315568 - Tempo Médio em nanosegundos: 7.07315568E9
+(ABB)pessoa10000inv.txt - Tempo Médio em segundos: 7.04638966 - Tempo Médio em nanosegundos: 7.04638966E9
+(ABB)pessoa50000alea.txt - Tempo Médio em segundos: 0.24670533000000003 - Tempo Médio em nanosegundos: 2.4670533E8
+(ABB)pessoa50000ord.txt - Tempo Médio em segundos: 182.94961447 - Tempo Médio em nanosegundos: 1.8294961447E11
+(ABB)pessoa50000inv.txt - Tempo Médio em segundos: 188.53128338000002 - Tempo Médio em nanosegundos: 1.8853128338E11
+(ABB Balanceada)pessoa500alea.txt - Tempo Médio em segundos: 0.01212261 - Tempo Médio em nanosegundos: 1.212261E7
+(ABB Balanceada)pessoa500ord.txt - Tempo Médio em segundos: 0.01181164 - Tempo Médio em nanosegundos: 1.181164E7
+(ABB Balanceada)pessoa500inv.txt - Tempo Médio em segundos: 0.009523960000000001 - Tempo Médio em nanosegundos: 9523960.0
+(ABB Balanceada)pessoa1000alea.txt - Tempo Médio em segundos: 0.01499222 - Tempo Médio em nanosegundos: 1.499222E7
+(ABB Balanceada)pessoa1000ord.txt - Tempo Médio em segundos: 0.013674700000000001 - Tempo Médio em nanosegundos: 1.36747E7
+(ABB Balanceada)pessoa1000inv.txt - Tempo Médio em segundos: 0.01594982 - Tempo Médio em nanosegundos: 1.594982E7
+(ABB Balanceada)pessoa5000alea.txt - Tempo Médio em segundos: 0.33137829 - Tempo Médio em nanosegundos: 3.3137829E8
+(ABB Balanceada)pessoa5000ord.txt - Tempo Médio em segundos: 0.16650092 - Tempo Médio em nanosegundos: 1.6650092E8
+(ABB Balanceada)pessoa5000inv.txt - Tempo Médio em segundos: 0.16683715000000002 - Tempo Médio em nanosegundos: 1.6683715E8
+(ABB Balanceada)pessoa10000alea.txt - Tempo Médio em segundos: 1.65543562 - Tempo Médio em nanosegundos: 1.65543562E9
+(ABB Balanceada)pessoa10000ord.txt - Tempo Médio em segundos: 0.6537708600000001 - Tempo Médio em nanosegundos: 6.5377086E8
+(ABB Balanceada)pessoa10000inv.txt - Tempo Médio em segundos: 0.66075337 - Tempo Médio em nanosegundos: 6.6075337E8
+(ABB Balanceada)pessoa50000alea.txt - Tempo Médio em segundos: 67.28018751 - Tempo Médio em nanosegundos: 6.728018751E10
+(ABB Balanceada)pessoa50000ord.txt - Tempo Médio em segundos: 17.092880660000002 - Tempo Médio em nanosegundos: 1.709288066E10
+(ABB Balanceada)pessoa50000inv.txt - Tempo Médio em segundos: 17.455264210000003 - Tempo Médio em nanosegundos: 1.745526421E10
+(AVL )pessoa500alea.txt - Tempo Médio em segundos: 0.011676510000000001 - Tempo Médio em nanosegundos: 1.167651E7
+(AVL )pessoa500ord.txt - Tempo Médio em segundos: 0.019472180000000002 - Tempo Médio em nanosegundos: 1.947218E7
+(AVL )pessoa500inv.txt - Tempo Médio em segundos: 0.01260314 - Tempo Médio em nanosegundos: 1.260314E7
+(AVL )pessoa1000alea.txt - Tempo Médio em segundos: 0.01049033 - Tempo Médio em nanosegundos: 1.049033E7
+(AVL )pessoa1000ord.txt - Tempo Médio em segundos: 0.01265946 - Tempo Médio em nanosegundos: 1.265946E7
+(AVL )pessoa1000inv.txt - Tempo Médio em segundos: 0.01025447 - Tempo Médio em nanosegundos: 1.025447E7
+(AVL )pessoa5000alea.txt - Tempo Médio em segundos: 0.022311840000000003 - Tempo Médio em nanosegundos: 2.231184E7
+(AVL )pessoa5000ord.txt - Tempo Médio em segundos: 0.02003661 - Tempo Médio em nanosegundos: 2.003661E7
+(AVL )pessoa5000inv.txt - Tempo Médio em segundos: 0.02239649 - Tempo Médio em nanosegundos: 2.239649E7
+(AVL )pessoa10000alea.txt - Tempo Médio em segundos: 0.03744556 - Tempo Médio em nanosegundos: 3.744556E7
+(AVL )pessoa10000ord.txt - Tempo Médio em segundos: 0.03636598 - Tempo Médio em nanosegundos: 3.636598E7
+(AVL )pessoa10000inv.txt - Tempo Médio em segundos: 0.03459851 - Tempo Médio em nanosegundos: 3.459851E7
+(AVL )pessoa50000alea.txt - Tempo Médio em segundos: 0.24207929 - Tempo Médio em nanosegundos: 2.4207929E8
+(AVL )pessoa50000ord.txt - Tempo Médio em segundos: 0.16072697 - Tempo Médio em nanosegundos: 1.6072697E8
+(AVL )pessoa50000inv.txt - Tempo Médio em segundos: 0.13397828 - Tempo Médio em nanosegundos: 1.3397828E8
+(HashingEncadeado )pessoa500alea.txt - Tempo Médio em segundos: 0.02613793 - Tempo Médio em nanosegundos: 2.613793E7
+(HashingEncadeado )pessoa500ord.txt - Tempo Médio em segundos: 0.017133330000000002 - Tempo Médio em nanosegundos: 1.713333E7
+(HashingEncadeado )pessoa500inv.txt - Tempo Médio em segundos: 0.01369209 - Tempo Médio em nanosegundos: 1.369209E7
+(HashingEncadeado )pessoa1000alea.txt - Tempo Médio em segundos: 0.0198097 - Tempo Médio em nanosegundos: 1.98097E7
+(HashingEncadeado )pessoa1000ord.txt - Tempo Médio em segundos: 0.021496730000000002 - Tempo Médio em nanosegundos: 2.149673E7
+(HashingEncadeado )pessoa1000inv.txt - Tempo Médio em segundos: 0.021355060000000002 - Tempo Médio em nanosegundos: 2.135506E7
+(HashingEncadeado )pessoa5000alea.txt - Tempo Médio em segundos: 0.08074017 - Tempo Médio em nanosegundos: 8.074017E7
+(HashingEncadeado )pessoa5000ord.txt - Tempo Médio em segundos: 0.08369336000000001 - Tempo Médio em nanosegundos: 8.369336E7
+(HashingEncadeado )pessoa5000inv.txt - Tempo Médio em segundos: 0.08100027 - Tempo Médio em nanosegundos: 8.100027E7
+(HashingEncadeado )pessoa10000alea.txt - Tempo Médio em segundos: 0.16105382000000001 - Tempo Médio em nanosegundos: 1.6105382E8
+(HashingEncadeado )pessoa10000ord.txt - Tempo Médio em segundos: 0.16711165 - Tempo Médio em nanosegundos: 1.6711165E8
+(HashingEncadeado )pessoa10000inv.txt - Tempo Médio em segundos: 0.16236423 - Tempo Médio em nanosegundos: 1.6236423E8
+(HashingEncadeado )pessoa50000alea.txt - Tempo Médio em segundos: 0.77524269 - Tempo Médio em nanosegundos: 7.7524269E8
+(HashingEncadeado )pessoa50000ord.txt - Tempo Médio em segundos: 0.7705066700000001 - Tempo Médio em nanosegundos: 7.7050667E8
+(HashingEncadeado )pessoa50000inv.txt - Tempo Médio em segundos: 0.76886763 - Tempo Médio em nanosegundos: 7.6886763E8
