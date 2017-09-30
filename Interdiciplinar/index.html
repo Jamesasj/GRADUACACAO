@@ -1,0 +1,15 @@
+<html>
+    <head>     
+            <script type="text/javascript">
+                function CalculaDistancia(origem, destino) {
+                    var apiGoogle = 'http://maps.googleapis.com/maps/api/distancematrix/json?origins=[origem]&destinations=[destino]&mode=driving&language=pt-BR&sensor=false';
+                    apiGoogle = apiGoogle.replace('[origem]',origem );
+                    apiGoogle = apiGoogle.replace('[destino]',destino );
+                    console.log(apiGoogle);
+                }
+            </script>
+    </head>
+    <body>
+            <a href="javascript:CalculaDistancia('Campo Grande ES', 'Bento Ferreira ES ');">calcular</a>
+    </body>
+</html>
